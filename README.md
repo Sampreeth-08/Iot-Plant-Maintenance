@@ -50,3 +50,7 @@ The project involves the following components:
 - Firebase account for storing sensor data.
 - MiT App Inventor for modifying the mobile app.
 - Python environment with necessary libraries for running machine learning scripts.
+
+<div align="center">
+<img src="image/README/prototype.jpg" width="70%" />
+</div>
