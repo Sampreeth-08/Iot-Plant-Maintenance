@@ -12,6 +12,10 @@ The project involves the following components:
 </div>
 
 - **Firebase**: Data collected from the sensors is stored in Firebase, providing a cloud-based storage solution.
+<div align="center">
+<img src="image/README/Database.jpg" width="30%" />
+</div>
+
 - **Mobile App**: An Android app built with MiT App Inventor allows users to view and interact with the data collected from the sensors.
 <div align="center">
 <img src="image/README/1704381687212.png" width="30%" />
