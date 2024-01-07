@@ -7,11 +7,20 @@ This repository contains code and resources for an IoT-based Plant Health Monito
 The project involves the following components:
 
 - **IoT Sensors**: Moisture sensors, light sensors, and other environmental sensors collect real-time data.
+<div align="center">
+<img src="image/README/Sensor data.jpg" width="50%" />
+</div>
+
 - **Firebase**: Data collected from the sensors is stored in Firebase, providing a cloud-based storage solution.
 - **Mobile App**: An Android app built with MiT App Inventor allows users to view and interact with the data collected from the sensors.
+<div align="center">
+<img src="image/README/1704381687212.png" width="50%" />
+</div>
 
-  ![1704381687212](image/README/1704381687212.png)
 - **Machine Learning Model (LSTM)**: Utilizes the stored sensor data in CSV format to train an LSTM (Long Short-Term Memory) model for predicting plant health based on the collected environmental parameters.
+<div align="center">
+<img src="image/README/Model training.jpg" width="50%" />
+</div>
 
 ## Project Structure
 
